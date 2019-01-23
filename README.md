@@ -5,7 +5,7 @@ Shopify Mobile Developer Intern Challenge - Summer 2019 submission by Reid Nante
 
 ## Description 
 * Used URLSession for fetching JSON Data from the server
-* Modeled JSON responses with Structs confoming to Codable and decoded the with JSONDecoder
+* Modeled JSON responses with Structs conforming to Codable and decoded the with JSONDecoder
 * UI created programically, Autolayout used for responsiveness
 
 ## Testing
